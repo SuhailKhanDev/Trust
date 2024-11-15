@@ -1,0 +1,164 @@
+/* All Common CSS Start  */
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+ul,ol{
+    list-style-type: none;
+}
+.container{
+    width: 1320px;
+    margin: 0 auto;
+}
+/* All Common CSS End  */
+
+/* Top Header Part Start  */
+#topHeader{
+    background: #3e3e3e;
+    padding: 20px 0;
+}
+.topHeaderItemPart{
+    display: flex;
+    justify-content: space-between;
+
+}
+.topHleft span{
+    color: #fff;
+    margin-right: 35px;
+    font-size: 12px;
+    font-family: "Open Sans", sans-serif;
+}
+.topHleft span i{
+    padding-right: 5px;
+}
+.topHright i{
+    padding: 0 10px;
+    color: #fff;
+}
+/* Top Header Part End */
+
+/* Header Part Start  */
+#headerPart{
+    padding: 50px 0;
+}
+.logoWithMenu{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+   text-transform: uppercase;
+   font-size: 15px;
+   color: #555555;
+   font-family: "Open Sans", sans-serif;
+   font-weight: 700;
+   padding: 0 25px;
+}
+.menu{
+    padding-top: 15px;
+}
+/* Header Part End */
+
+/* Banner Part Start  */
+#bannerPart{
+    
+    background: url(../images/1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bannerOverly{
+    background: rgba(0, 0, 0, 0.5);
+    padding-top: 250px;
+    padding-bottom: 340px;
+}
+.bannerText{
+    text-align: center;
+}
+.bannerText span{
+    color: #f8b864;
+}
+
+.bannerText h4{
+    font-size: 30px;
+    font-family: "Roboto Slab", serif;
+    font-weight: 700;
+}
+.bannerText h1{
+    font-size: 60px;
+    font-family: "Roboto Slab", serif;
+    font-weight: 700;
+}
+.bannerText p{
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    padding: 0 334px;
+    line-height: 30px;
+}
+.bannerText{
+    color: #fff;
+}
+/* Banner Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
+/* Header Part Start  */
+/* Header Part End */
+
