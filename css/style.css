@@ -107,7 +107,10 @@ ul,ol{
     color: #fff;
 }
 /* Banner Part End */
-
+#hello{
+    padding: 150px 0;
+    background: teal;
+}
 /* Header Part Start  */
 /* Header Part End */
 
